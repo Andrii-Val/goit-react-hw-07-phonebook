@@ -13,7 +13,7 @@ export const BtnOpen = styled.button`
   height: 50px;
   border-radius: 50%;
   border: 1px solid #000;
-  background-color: #4287f5;
+  background-color: green;
   color: #fff;
   display: flex;
   justify-content: center;
