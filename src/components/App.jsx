@@ -76,7 +76,7 @@ export const App = () => {
             ariaLabel="hourglass-loading"
             wrapperStyle={{}}
             wrapperClass=""
-            colors={['#306cce', '#72a1ed']}
+            colors={['green', 'green']}
           />
         )}
         {contacts.length > 0 ? (
